@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/teamwork-html-css/",
+    "build": "vite build --base=/122_html-css_Textterrion/",
     "preview": "vite preview"
   },
   "devDependencies": {
